@@ -12,31 +12,31 @@ export const obtenerCategorias = ()=>
                         id:1,
                         nombreEsp:'vaca',
                         nombreEng:'cow',
-                        imagen:'./assets/Categorias/Animales/Items/vaca.jpg'
+                        imagen:'./assets/Categorias/Animales/items/vaca.jpg'
                     },
                     {
                         id:2,
                         nombreEsp:'caballo',
                         nombreEng:'horse',
-                        imagen:'./assets/Categorias/Animales/Items/caballo.jpg'
+                        imagen:'./assets/Categorias/Animales/items/caballo.jpg'
                     },
                     {
                         id:3,
                         nombreEsp:'perro',
                         nombreEng:'dog',
-                        imagen:'./assets/Categorias/Animales/Items/perro.jpg'
+                        imagen:'./assets/Categorias/Animales/items/perro.jpg'
                     },
                     {
                         id:4,
                         nombreEsp:'Gato',
                         nombreEng:'cat',
-                        imagen:'./assets/Categorias/Animales/Items/gato.jpg'
+                        imagen:'./assets/Categorias/Animales/items/gato.jpg'
                     },
                     {
                         id:5,
                         nombreEsp:'Gallina',
                         nombreEng:'chicken',
-                        imagen:'./assets/Categorias/Animales/Items/gallina.jpg'
+                        imagen:'./assets/Categorias/Animales/items/gallina.jpg'
                     },
                 ]
             },
